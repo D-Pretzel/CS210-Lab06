@@ -3,7 +3,7 @@
 * Name: David Petzold
 * Section: T6/7
 * Project: Lab 06
-* Purpose: Using functional decomposition to solve a problem
+* Purpose: This program computes the number of seconds it takes an object to fall the height of a given building
 * ===========================================================*/
 
 int main(void){
